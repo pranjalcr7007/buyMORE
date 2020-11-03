@@ -30,3 +30,12 @@ product4:
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
 
+shipping:
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
+
+place order:
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
