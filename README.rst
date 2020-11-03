@@ -10,32 +10,32 @@ Home:
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/home.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/home
     
-Product :
+Product Details :
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/details1.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/details1.png
 
-product2:
+Details:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/details2.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/details2.png 
 
-product3:
+Details 2:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/details3.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/details3.png
 
-product4:
+Details 3:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
 
-shipping:
+Shipping:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
 
-place order:
+Place Order:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
