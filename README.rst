@@ -30,6 +30,11 @@ Details 3:
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/accounts.png
 
+Custom Dash :
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/dash.png
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/dash.png
+    
 Shipping:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
