@@ -15,6 +15,11 @@ Product Details :
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/details1.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/details1.png
 
+Product Details :
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/footer.PNG
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/footer.PNG
+
 Details:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/details2.png
@@ -54,4 +59,5 @@ Payment methods:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/payment.PNG
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/payment.PNG
+    
     
