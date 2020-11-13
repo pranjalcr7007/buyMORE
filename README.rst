@@ -40,7 +40,18 @@ Shipping:
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/shipping.png
 
+Shipping methods:
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/shipp.PNG
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/shipp.PNG
+
 Place Order:
 
 .. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
     :target: https://github.com/pranjalcr7007/buyMORE/blob/master/place%20order.png
+    
+Payment methods:
+
+.. image:: https://github.com/pranjalcr7007/buyMORE/blob/master/payment.PNG
+    :target: https://github.com/pranjalcr7007/buyMORE/blob/master/payment.PNG
+    
